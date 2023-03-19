@@ -1,7 +1,7 @@
 # Phase-1-code-challenge
 
 # PROJECT SETUP 
-1.Clone this repository onto your local machine using 'git clone git@github.com:QUANDEVV/Phase-1-code-challenge.git ' 
+1.Clone this repository onto your local machine using 'git clone https://github.com/QUANDEVV/Phase-1-code-challenge.git' 
 2.Navigate into the project directory using ' cd Phase-1-code-challenge' 
 3.Copy the code
 4.OPen chrome browser ,open inspect and run the code at the inspect
