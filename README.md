@@ -17,4 +17,4 @@ This program takes as input the speed of a car and calculates the number of deme
 
 
 # Net Salary Calculator (Toy Problem)
-This program calculates an individual's net salary based on their basic salary and benefits. It calculates the payee (i.e., tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
+This program calculates an individual's net salary based on their basic salary and benefits. It calculates the payee (i.e., tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary.  
